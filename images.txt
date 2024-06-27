@@ -7,3 +7,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent:4.6.5-libtorrentv1
 jxxghp/moviepilot:latest
 linuxserver/qbittorrent:libtorrentv1-version-release-4.6.5_v1.2.19
+nastool/nas-tools:3.2.3-debian
