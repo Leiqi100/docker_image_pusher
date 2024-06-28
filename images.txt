@@ -7,3 +7,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent:libtorrentv1-version-release-4.6.5_v1.2.19
 miraclemie/nas-tools:2.9.2-beta
 zishuo/embyserver:latest
+linuxserver/jackett:0.22.221
