@@ -8,4 +8,4 @@ jxxghp/moviepilot:latest
 linuxserver/qbittorrent:libtorrentv1-version-release-4.6.5_v1.2.19
 nastool/nas-tools:3.2.3-debian
 iyuucn/iyuuplus:latest
-shenli1120/video-tools:slim-0.2-arm64
+yixinrushi/video_tools:slim-0.2
